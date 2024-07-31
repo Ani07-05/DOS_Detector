@@ -58,10 +58,10 @@ To run the tests, use the following command:
 python -m unittest test_dos_detector.py
 ```
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE.txt file for details.
 
-Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue.
 
 
